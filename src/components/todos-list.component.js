@@ -25,7 +25,7 @@ export default class TodosList extends Component {
   }
   render() {
     return (
-      <div className="container col-md-6 mt-3 bg-light p-4 rounded shadow">
+      <div className="container col-md-6 bg-light p-4 rounded shadow">
         <Link to="/create" className="btn btn-primary">
           + Create Todo
         </Link>

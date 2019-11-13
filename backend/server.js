@@ -22,7 +22,6 @@ app.use(
   })
 );
 
-// module.exports = require("./config/express")(app, config);
 require("./routes")(app);
 
 app.listen(config.port, () => {

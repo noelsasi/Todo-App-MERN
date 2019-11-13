@@ -3,6 +3,7 @@ const lists = mongoose.model("lists");
 
 module.exports = {
   view: function(req, res, next) {
+    // eslint-disable-next-line array-callback-return
     lists.find((err, list) => {
       if (err) return next(err);
       res.send({
