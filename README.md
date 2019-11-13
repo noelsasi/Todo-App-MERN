@@ -1,4 +1,4 @@
-Todo App build using MongoDB, ExpressJs and ReactJS.
+Todo App using MongoDB, ExpressJs and ReactJS.
 
 - create-react-app will give basic frontend react app
 - In components we have lists, edit, create forms and list container
