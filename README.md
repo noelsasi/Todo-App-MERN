@@ -9,6 +9,10 @@ Todo App using MongoDB, ExpressJs and ReactJS.
 - In routes.js we have all routes and get, post requests to send data to the controller.
 - from React, using axios we'll make requests to the backend server and route through each controller actions.
 
+To run this app
+- we have two servers frontend and backend
+- firstly, npm run start
+- and then go to backend folder and run nodemon.
 
 Features
 - View all Todos
