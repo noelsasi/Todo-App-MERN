@@ -8,3 +8,11 @@ Todo App using MongoDB, ExpressJs and ReactJS.
 - Controller will hold all actions to perform and models we have schema
 - In routes.js we have all routes and get, post requests to send data to the controller.
 - from React, using axios we'll make requests to the backend server and route through each controller actions.
+
+
+Features
+- View all Todos
+- add new Todo
+- edit Todo
+- Delete Todo
+- check complete and vice versa
